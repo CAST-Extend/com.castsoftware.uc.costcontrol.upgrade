@@ -9,7 +9,8 @@ The goal of this extension is to upgrade the Cost Config table for the Cost Cont
 # Cases covered by this extension
 
 The following cases are covered by the extension :
-... 
+HTML5 technology 
+PHP technology 
 
 # How to contribute
 

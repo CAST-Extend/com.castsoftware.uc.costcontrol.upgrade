@@ -12,7 +12,7 @@ The following cases are covered by the extension :
 - HTML5 technology 
 - PHP technology 
 
-![](https://github.com/CAST-Extend/com.castsoftware.uc.DeliveryAlertsReport/blob/master/Form.png?raw=true)
+![](https://raw.githubusercontent.com/CAST-Extend/com.castsoftware.uc.costcontrol.upgrade/master/cost_profile.jpg?raw=true)
 
 # How to contribute
 

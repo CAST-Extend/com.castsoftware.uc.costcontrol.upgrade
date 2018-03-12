@@ -12,6 +12,8 @@ The following cases are covered by the extension :
 - HTML5 technology 
 - PHP technology 
 
+![](https://github.com/CAST-Extend/com.castsoftware.uc.DeliveryAlertsReport/blob/master/Form.png?raw=true)
+
 # How to contribute
 
 This technical package is deliver "as-is". It has been used in a limited number of situations. 
